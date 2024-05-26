@@ -1,1 +1,1 @@
-# Servo-Motor-Lego
+# Classe de motores que usam Ponte H - L298N
